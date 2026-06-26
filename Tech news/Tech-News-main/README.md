@@ -27,7 +27,7 @@ Get the latest **tech news** in one place with **Grishma Tech News**! 🚀 Stay 
 ## ⚡ Setup Instructions
 1️⃣ Clone the repository:  
 ```bash
-git clone https://github.com/your-username/tech-news-website.git
+https://github.com/Reddy-2006/API-Based-Real-Time-News-Dashboard.git
 ```
 2️⃣ Open `index.html` in your web browser.
 
@@ -37,8 +37,7 @@ git clone https://github.com/your-username/tech-news-website.git
 🔹 **Browse** through the latest articles displayed on the main page.  
 
 ---
-### 🙌 Thank You!
-👩‍💻 **Developed by:** Grishma Gedela ([GRISHMA-GEDELA](https://github.com/grishma-gedela), Tech News)
+### 🙌 Thank You !
 
 
 
